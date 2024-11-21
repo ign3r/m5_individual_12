@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M5Individual12</string>
+    <string name="title">Calculadora de IMC</string>
+    <string name="nombre">Nombre</string>
+</resources>
